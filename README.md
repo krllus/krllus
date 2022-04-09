@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="400" src="./assets/banner.png">
+<img alt="Coding" src="./assets/banner.png">
+
+
 
 ## Who is this guy? 
  Ola sou o Joao Carlos ! Trabalho desenvolvendo Android desde 2012 e tenho buscado aperfeicoar minhas habilidades por meio de cursos, e tambem estou aprendendo mais sobre o Spring Boot.
