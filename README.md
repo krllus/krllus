@@ -22,9 +22,10 @@ No momento, estou fazendo o curso de Especialista em Spring Boot da AlgaWorks em
  - Java
  - Shell
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krllus&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krllus)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br>
+  <img height="180em" alt="Krllus's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=krllus&show_icons=true&theme=synthwave"/>
+  <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krllus&show_icons=true&theme=synthwave"/>
+<\div>
 
 <!--
 **krllus/krllus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
