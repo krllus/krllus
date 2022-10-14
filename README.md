@@ -25,12 +25,13 @@ No momento, estou fazendo o curso de Especialista em Spring Boot da AlgaWorks em
  - Shell
 
 <div style="display: inline_block">
-  <img height="180em" alt="Krllus's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=krllus&show_icons=true&theme=synthwave"/>
-  <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krllus&show_icons=true&theme=synthwave"/>
+  <img height="180em" alt="Krllus's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=krllus&show_icons=true&theme=synthwave&count_private=true"/>
+  <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krllus&show_icons=true&theme=synthwave&count_private=true"/>
 </div>
 
+<div style="display: inline_block">
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=krllus)
-
+</div>
 <!--
 **krllus/krllus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
