@@ -29,6 +29,8 @@ No momento, estou fazendo o curso de Especialista em Spring Boot da AlgaWorks em
   <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krllus&show_icons=true&theme=synthwave"/>
 </div>
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=krllus)
+
 <!--
 **krllus/krllus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
