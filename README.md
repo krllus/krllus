@@ -19,10 +19,8 @@ Estudando KSP, nao compila tem feito parte dos meus pesadelos;
 
 ## Technologies
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,linux,bash,docker,python,spring"/>
-  </a>
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,linux,bash,docker,python,spring&perline=4"/>
 </p>
 
 <div style="display: inline_block">
