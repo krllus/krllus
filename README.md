@@ -2,29 +2,28 @@
 
 ## Who is this guy?
 
- Ola sou o João Carlos ! Trabalho desenvolvendo Android desde 2012 e tenho buscado aperfeiçoar minhas habilidades por meio de cursos, e também estou aprendendo mais sobre o Spring Boot.
-
-Sou um dev curioso, então voce vai descobrir que tenho scripts para quase tudo, pois gosto de facilitar e ganhar tempo nas minhas atividades.
+Ola sou o João Carlos! Um dev curioso e preguiçoso, se for uma tarefa repetida, provável que tenho algum script para ela. Trabalho com Android desde 2012, busco sempre crescer e para isso estudo no meu tempo livre, atualmente estou aprendendo um pouco sobre KSP;
 
 ## What I like to do?
 
-Gosto de fazer caminhadas e jogar video games, além disso tenho o hobby de cozinhar nas horas vagas. Caso queria ganhar minha atenção me conte uma curiosidade sobre tecnologia ou apresente-me uma receita bacana.
+Gosto muito de escutar musicas novas, descobri o plugin de radio no VLC e essa eh a minha nova paixão;
 
-Ah! Musica faz parte de mim, logo adoro descobrir novas radios online no Video Lan.
+Leitura de Mangas, favorito eh One Piece;
+
+Tinkering my Dotfiles, vez ou outra descubro que estou me repetindo, dai faco um script novo, meu favorito ainda eh o `pserver`, short for python server, `alias pserver="python3 -m http.server"`;
 
 ## Currently working on
 
-No momento, estou fazendo o curso de Especialista em Spring Boot da AlgaWorks em Kotlin. Ja cheguei na metade do curso, acho que ate o fim de maio eu finalizo;
+Estudando Jetpack Compose, reusabilidade eh muito alta, i'm in love again ♥;
+Estudando KSP, nao compila tem feito parte dos meus pesadelos;
 
 ## Technologies
 
-- Kotlin
-- Android
-- Spring Boot
-- Docker
-- Linux
-- Java
-- Shell
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,linux,bash,docker,python,spring"/>
+  </a>
+</p>
 
 <div style="display: inline_block">
   <img height="180em" alt="Krllus's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=krllus&show_icons=true&theme=synthwave&count_private=true"/>
